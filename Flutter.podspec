@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'FlutterCounterSDK'  # No spaces in the name
+  s.name             = 'FlutterCounterSDK'
   s.version          = '0.0.1'
   s.summary          = 'Flutter iOS framework'
   s.homepage         = 'https://github.com/boomibalanB/CounterFlutterSDK.git'
